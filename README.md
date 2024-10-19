@@ -1,16 +1,18 @@
-## Hi there 👋
+![Header](./images/)
+# 👋 Hi! I'm Val
+## 🌟 Welcome to my GitHub profile!
 
-<!--
-**ValBoschP/ValBoschP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🦖 **About Me**
+<table>
+  <tr>
+    <td>
+      - 🎓 Currently pursuing a **Bachelor's degree in Computer Engineering** at [Your University].  
+      - 💡 Fascinated by **software development**, **data science**, and **artificial intelligence**.  
+      - 🌱 Constantly learning new technologies and improving my skills.  
+      - 🧠 I enjoy solving problems and building projects that challenge my thinking.
+    </td>
+    <td>
+      <img src="/images/val-profile.png" alt="Profile related image" width="50%">
+    </td>
+  </tr>
+</table>
