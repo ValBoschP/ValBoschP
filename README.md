@@ -4,11 +4,9 @@
 
 ### 🦖 **About Me**
 <div style="display: flex; align-items: center;">
-  <div>
-  - 🎓 Currently pursuing a **Bachelor's degree in Computer Engineering** at [Your University].
-  - 💡 Fascinated by **software development**, **data science**, and **artificial intelligence**.
-  - 🌱 Constantly learning new technologies and improving my skills.
-  - 🧠 I enjoy solving problems and building projects that challenge my thinking.
-  </div>
+  <ul>
+    <li>🎓 Currently pursuing a degree in <b>Computer Engineering</b> at <b>Universidad de La Laguna</b></li>
+    <li>💡 Fascinated by <b>software development</b>, <b>cybersecurity</b>, and <b>art</b>.</li>
+  </ul>
   <img src="/images/val-profile.png" alt="Profile image" width="250" style="margin-left: 20px;">
 </div>
