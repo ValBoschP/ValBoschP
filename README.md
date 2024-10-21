@@ -1,13 +1,19 @@
 <!-- Banner -->
 <img src="./images/text-box-val.png" alt="Header Banner" width="70%"/>
-<h3 align="center">Aspiring Software Engineer | Pixel Art Enthusiast | Technology Lover</h3>
+<h2 align="center"> Computer Science Student </h2>
 
 <!-- About Me -->
-<div style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: left; justify-content: left;">
   <div>
     <ul style="list-style: none;">
-      <li>🎓 Pursuing a Bachelor's degree in <b>Computer Engineering</b></li>
-      <li>💡 Passionate about <b>software development</b>, <b>cybersecurity</b>, and <b>art</b></li>
+      <li>🎓 Studying <b>Computer Engineering at Universidad de La Laguna</b></li>
+      <li>💡 Interested in <b>Software Development</b> and <b>Cybersecurity</b></li>
+      <li>🌱 Always learning and exploring new tech</li>
+      <li>🖌️ Drawing <b>Pixelart</b> as a hobby
     </ul>
   </div>
 </div>
+
+### 📈 GitHub Stats
+![Valeria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValBoschP&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValBoschP&layout=compact&theme=radical)](https://github.com/ValBoschP/github-readme-stats)
