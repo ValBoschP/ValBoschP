@@ -1,4 +1,4 @@
-<img src="./images/text-box-val.png" alt="Header Banner" width="150%" />
+<img src="./images/text-box-val.png" alt="Header Banner" width="100%" />
 
 ### 🦖 **About Me**
 <div style="display: flex; align-items: center;">
