@@ -14,6 +14,13 @@
   </div>
 </div>
 
+## 🛠️ Technologies & Tools
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+
+
 ### 📈 GitHub Stats
-![Valeria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValBoschP&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValBoschP&layout=compact&theme=radical)](https://github.com/ValBoschP/github-readme-stats)
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ValBoschP&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValBoschP&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+</div>
