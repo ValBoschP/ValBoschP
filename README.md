@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="./images/text-box-val.png" alt="Header Banner" width="80%"/>
+<img src="./images/text-box-val.png" alt="Header Banner" width="70%"/>
 <h3 align="center">Aspiring Software Engineer | Pixel Art Enthusiast | Technology Lover</h3>
 
 <!-- About Me -->
@@ -10,5 +10,4 @@
       <li>💡 Passionate about <b>software development</b>, <b>cybersecurity</b>, and <b>art</b></li>
     </ul>
   </div>
-  <img src="./images/pc" alt="Pixel Art PC" width="90" align = right/>
 </div>
