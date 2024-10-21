@@ -1,6 +1,6 @@
 <!-- Banner -->
 <img src="./images/text-box-val.png" alt="Header Banner" width="70%"/>
-<h2 align="center"> Computer Science Student </h2>
+
 
 <!-- About Me -->
 <div style="display: flex; align-items: left; justify-content: left;">
