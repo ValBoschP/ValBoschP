@@ -10,5 +10,5 @@
       <li>💡 Passionate about <b>software development</b>, <b>cybersecurity</b>, and <b>art</b></li>
     </ul>
   </div>
-  <img src="./images/pc" alt="Pixel Art PC" width="90" style="margin-left: 20px;">
+  <img src="./images/pc" alt="Pixel Art PC" width="90" align = right/>
 </div>
