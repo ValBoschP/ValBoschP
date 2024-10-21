@@ -1,9 +1,4 @@
-![Header](./images/)
-<div style="display: flex; align-items: center;">
-  <h1>👋 Hi! I'm Val</h1>
-  <img src="/images/val-profile.png" alt="Profile image" width="250" style="margin-left: 20px;">
-  <h2>🌟 Welcome to my GitHub profile!</h2>
-</div>
+<img src="./images/text-box-val.png" alt="Header Banner" width="150%" />
 
 ### 🦖 **About Me**
 <div style="display: flex; align-items: center;">
