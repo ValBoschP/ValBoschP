@@ -8,7 +8,7 @@
 * 🎓 Studying **Computer Engineering** at *Universidad de La Laguna*
 * 💡 Enthusiastic about **Software Development** and **Cybersecurity**
 * 🧠 Always exploring new technologies and expanding my knowledge
-* 🖌️ Creating **Pixel Art** in my free time
+* 🖌️ Creating **Art** in my free time
 * 🚀 Constantly seeking new challenges and opportunities to grow
 
 ## 🛠️ Technologies & Tools
