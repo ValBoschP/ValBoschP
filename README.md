@@ -3,13 +3,14 @@
   <img src="./images/text-box-val.png" alt="Header Banner" width="80%"/>
   
   <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineering+Student;Software+Developer;Cybersecurity+Enthusiast;Digital+Artist" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineering+Student;Software+Developer;Cybersecurity+Enthusiast;Digital+Artist" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
 
 ## 👩‍💻 About Me
-
 🎓 Studying **Computer Engineering** at *Universidad de La Laguna*  
 💡 Passionate about **Software Development** and **Cybersecurity**  
 🎨 Creating **Art** in my free time  
@@ -37,21 +38,27 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ValBoschP&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValBoschP&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
+
+<!-- Main Stats -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=ValBoschP&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" 
+  height="180px" 
+  alt="GitHub Stats"
+/>
+
+<!-- Top Languages -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValBoschP&layout=compact&theme=radical&hide_border=true" 
+  height="180px" 
+  alt="Top Languages"
+/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ValBoschP&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ValBoschP&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<br/>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ValBoschP&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
 
 <br/>
 
