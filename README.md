@@ -56,9 +56,6 @@
 
 <br/>
 
-![Snake animation](https://github.com/ValBoschP/ValBoschP/blob/output/github-contribution-grid-snake.svg)
-
-<br/>
 ## 🌐 Connect With Me
 
 <div align="center">
