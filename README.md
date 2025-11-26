@@ -37,13 +37,6 @@
 - Exploring fundamental **cybersecurity** concepts
 - Creating a gallery to showcase my **art work**
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ValBoschP&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValBoschP&layout=compact&theme=radical" alt="Top Languages" height="180px" />
-</div>
-
 ## 🌐 Connect With Me
 
 <!-- Social Media -->
